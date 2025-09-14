@@ -25,6 +25,18 @@
       "image_url": "",
       "is_published": true,
       "publish_at": null
+    },
+        {
+      "id": "33333333-3333-3333-3333-333333333333",
+      "title": "面白可笑ひこ",
+      "start_at": "2024-01-03T14:00:00+09:00",
+      "end_at": null,
+      "venue": "MAMEHICO銀座",
+      "city": "東京",
+      "url": "https://mamehico.com/event/xxxxx",
+      "image_url": "",
+      "is_published": true,
+      "publish_at": null
     }
   ]
 }
