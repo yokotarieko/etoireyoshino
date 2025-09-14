@@ -10,7 +10,7 @@
       "venue": "MAMEHICO銀座",
       "city": "東京",
       "url": "https://mamehico.com/event/xxxxx",
-      "image_url": null,
+      "image_url": "https://yokotarieko.github.io/etoireyoshino/images/yoshino01.png",
       "is_published": true,
       "publish_at": "2025-09-14T09:00:00+09:00"
     },
@@ -34,7 +34,7 @@
       "venue": "MAMEHICO銀座",
       "city": "東京",
       "url": "https://mamehico.com/event/xxxxx",
-      "image_url": "",
+      "image_url": "https://yokotarieko.github.io/etoireyoshino/images/yoshino01.png",
       "is_published": true,
       "publish_at": null
     }
